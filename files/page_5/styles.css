@@ -155,8 +155,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:390px;
-  height:75px;
+  width:377px;
+  height:59px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -167,22 +167,22 @@
   font-family:"Roboto Bold", "Roboto Regular", "Roboto", sans-serif;
   font-weight:700;
   font-style:normal;
-  font-size:50px;
+  font-size:48px;
   color:#161515;
   text-align:left;
 }
 #u137 {
   border-width:0px;
   position:absolute;
-  left:438px;
-  top:31px;
-  width:390px;
-  height:75px;
+  left:419px;
+  top:44px;
+  width:377px;
+  height:59px;
   display:flex;
   font-family:"Roboto Bold", "Roboto Regular", "Roboto", sans-serif;
   font-weight:700;
   font-style:normal;
-  font-size:50px;
+  font-size:48px;
   color:#161515;
   text-align:left;
 }
@@ -443,7 +443,7 @@
   border-width:0px;
   position:absolute;
   left:101px;
-  top:554px;
+  top:555px;
   width:100px;
   height:58px;
   display:flex;
